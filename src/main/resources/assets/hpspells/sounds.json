@@ -1,0 +1,30 @@
+{
+    "mob.dementor.breathe": {
+        "category": "hostile",
+        "sounds": 
+        [
+            "mob/dementor/breathe"
+        ]
+    },
+    "mob.dementor.death": {
+        "category": "hostile",
+        "sounds": 
+        [
+            "mob/dementor/death"
+        ]
+    },
+    "mob.dementor.hit": {
+        "category": "hostile",
+        "sounds": 
+        [
+            "mob/dementor/hit"
+        ]
+    },
+    "protego.hit": {
+        "category": "player",
+        "sounds": 
+        [
+            "protegoHit"
+        ]
+    }
+}
